@@ -1,0 +1,1 @@
+I wrote the lexer inside "Lexer.lex" and parser inside "Parser.cup". Jflex and Cup generated the other files to produce the final Lexer and Parser.
